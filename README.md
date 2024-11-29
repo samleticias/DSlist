@@ -2,6 +2,8 @@
 
 Aplicação frontend desenvolvida para consumir uma API REST voltada para organização de jogos em coleções. Este projeto utiliza React para construção de interfaces modernas e responsivas, com integração ao back-end para exibição e manipulação de dados.
 
+Link para o repositório e documentação do back-end: [DSList Backend](https://github.com/samleticias/dslist-backend)
+
 ## Funcionalidades Principais
 - Exibição de coleções de jogos organizadas por gêneros.
 - Listagem detalhada de jogos com informações como título, ano, descrição e imagem.
